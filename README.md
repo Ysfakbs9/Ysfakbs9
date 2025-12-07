@@ -46,14 +46,14 @@ Pratik, sade ve işlevsel çözümler geliştirmeyi seviyorum. Projelerimi hem d
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" height="45" />
   <img src="https://skillicons.dev/icons?i=opencv" height="45" />
-  <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo/PNG/ros_logo.png" height="45" />
+  <img src="https://skillicons.dev/icons?i=ros" height="45" />
   <img src="https://skillicons.dev/icons?i=linux" height="45" />
 </p>
 
 ### 🔌 Haberleşme & Otomasyon
 <p align="left">
   <img src="https://cdn.simpleicons.org/loRa/0A84FF" height="45" title="LoRa E22" />
-  <img src="https://cdn.simpleicons.org/modbus/blue" height="45" title="Modbus" />
+  <img src="https://cdn.simpleicons.org/ltspice" height="45" title="Modbus" />
   <img src="https://cdn.simpleicons.org/mqtt/660066" height="45" title="MQTT" />
 </p>
 
