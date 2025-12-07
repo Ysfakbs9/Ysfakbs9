@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=D79921&center=true&vCenter=true&width=460&lines=Roboticist%20%7C%20Embedded%20Systems%20Developer;Computer%20Vision%20Enthusiast;IoT%20%26%20Automation%20Systems%20Designer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=D79921&center=true&vCenter=true&width=500&lines=Roboticist%20%7C%20Embedded%20Systems%20Developer;Computer%20Vision%20Enthusiast;IoT%20%26%20Automation%20Systems%20Designer" />
 </p>
 
 ---
