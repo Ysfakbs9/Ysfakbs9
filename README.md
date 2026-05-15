@@ -20,7 +20,7 @@ Uzmanlık alanlarım:
   PWM tabanlı sürücüler, DC motor kontrolü, servo senkron hareketleri ve endüstriyel buton kontrollü yapılar.
 
 - 🤖 **Robotik & Otonom Sistemler**  
-  Otonom tarım aracı tasarımı, yabani ot tespit ve imha sistemleri, sensör füzyonu ve ROS 2 mimarileri.
+  Otonom iha yazılım ve donanımı , sensör füzyonu ve ROS 2 mimarileri.
 
 - 🎥 **Görüntü İşleme & Yapay Zekâ**  
   Python + OpenCV ile renk tespiti, obje/plaka tanıma, kamera tabanlı kontrol sistemleri.
